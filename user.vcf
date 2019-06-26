@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Fazli;;;
+FN: FAZLI SAID
+ORG:Ministry of Education;
+TITLE:Deputy Undersecretary (Strategic Operation)\nPlanning and Policy Coordination Division
+EMAIL;type=INTERNET;type=WORK;type=pref:fazli.said@moe.gov.my
+TEL;type=WORK;type=VOICE:+60 12 395 0507
+item1.ADR;type=WORK;type=pref:;;Level 3\, No. 2\, Tower 2\nPrecinct 5\n62200 Putrajaya
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.moe.gov.my
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
